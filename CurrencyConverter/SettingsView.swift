@@ -2,7 +2,7 @@
 //  SettingsView.swift
 //  CurrencyConverter
 //
-//  Created by Sabith Salman on 2024-11-28.
+
 //
 
 import SwiftUI

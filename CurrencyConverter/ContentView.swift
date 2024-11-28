@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CurrencyConverter
 //
-//  Created by Sabith Salman on 2024-11-28.
+
 //
 
 import SwiftUI
@@ -22,7 +22,7 @@ struct ContentView: View {
         // Add other rates here
     ]
     
-    @State private var text = "" // SAMPLE
+    @State private var text = ""
     @State private var secondNumberInput: Int? = nil
     var body: some View {
         NavigationStack{
